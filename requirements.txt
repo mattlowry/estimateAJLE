@@ -1,0 +1,8 @@
+PyQt5
+fastapi
+uvicorn
+sqlalchemy
+alembic
+requests
+openai
+Pillow
